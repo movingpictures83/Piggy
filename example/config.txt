@@ -1,0 +1,2 @@
+Prefix plugins/Piggy/example/
+Plugin Piggy inputfile example_data outputfile .
